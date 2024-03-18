@@ -1,6 +1,6 @@
 # 👋 Hi, I’m [@Stromy08](https://github.com/Stromy08)
 ## 🪪 About me:
-- 👀 I’m interested in: AI, game development, 3D graphics, Animation, Drawing, Music, Mountain biking, Gaming, Modding, Board games, Hacking, Anime, Piano, Editing and more.
+- 👀 I’m interested in: AI, game development, 3D graphics, Animation, Drawing, Music, Mountain biking, Gaming, Modding, Board games, Pentesting, Anime, Piano, Editing and more.
 - 🌱 I’m currently learning: Unity game engine and AI
 - 📫 Discord: `stromyxd`
 - ❤️ Status: Single all the way 🔥
