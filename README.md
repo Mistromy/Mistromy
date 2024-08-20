@@ -3,7 +3,7 @@
 - 👀 I’m interested in: AI, game development, 3D graphics, Animation, Drawing, Music, Mountain biking, Gaming, Modding, Board games, Pentesting, Anime, Piano, Editing and more.
 - 🌱 I’m currently learning: Unity game engine and AI
 - 📫 Discord: `stromyxd`
-- ❤️ Status: On vacation rn :3
+- ❤️ Status: Slayying, like always
 
 ## 🔍 Current Projects:
 ### Courier Simulator
