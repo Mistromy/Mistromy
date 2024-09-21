@@ -1,9 +1,8 @@
 # 👋 Hi, I’m [@Stromy08](https://github.com/Stromy08)
 ## 🪪 About me:
-- 👀 I’m interested in: AI, game development, 3D graphics, Animation, Drawing, Music, Mountain biking, Gaming, Modding, Board games, Pentesting, Anime, Piano, Editing and more.
-- 🌱 I’m currently learning: Unity game engine and AI
+- 👀 I’m interested in: AI, game development, 3D graphics, Animation, Drawing, Music, Mountain biking, Gaming, Modding, Board games, Pentesting, Piano, Editing and more.
+- 🌱 I’m currently learning: Unreal engine and mobile app development 
 - 📫 Discord: `stromyxd`
-- ❤️ Status: Slayying, like always
 
 ## 🔍 Current Projects:
 ### Courier Simulator
