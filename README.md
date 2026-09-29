@@ -1,4 +1,5 @@
 <center><a href="https://mista.tech"><img src="hiimmistt.svg" width="50%"></a></center>
+
 Also Mistromy or sudomist, depending on which usernames were taken.
 
 I do CGI, Backend, and to be honest, nearly anything that's related to computers.  
